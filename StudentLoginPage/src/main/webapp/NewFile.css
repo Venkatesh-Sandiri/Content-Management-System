@@ -1,0 +1,90 @@
+@charset "ISO-8859-1";
+.login
+{
+	margin: auto;
+	border-width : 10px;
+	border: #c0c0c0;
+	border-style : solid;
+	width : 30%;
+	text-align: left;
+	cursor:auto;
+}
+#p
+{
+	background-color: #0066cc;
+	color: white;
+	height : 30px;
+	font-size: 20px;
+	vertical-align: middle;
+	display: flex;
+  	align-items: center;
+}
+#h1
+{
+	border-spacing: 0px;
+	border-width: 0px;
+	margin : 0px;
+	margin : 0; padding-top:0;
+}
+.br
+{
+	display: block;
+    margin-bottom: 0.5em;
+}
+.brtop
+{
+	display: block;
+    margin-top :-1em;
+}
+#sub
+{
+	margin-left : 140px;
+}
+#NewUser
+{
+	margin:auto;
+	text-align: center;
+	width: 20%;
+}
+#subm
+{
+	margin-top: 10px;
+}
+.changePass
+{
+	margin:auto;
+	text-align : center;
+	width : 25%;
+	padding-bottom: 10px;
+	padding-top  : 10px;
+	margin-top:200px;
+	background-color: #9edae0;
+}
+.brtopmost
+{
+	display : block;
+	margin-top : -1.2em;
+}
+.message
+{
+	margin:auto;
+	text-align:center;
+	width : 30%;
+	height:30%;
+}
+.PassNew
+{
+	margin : auto;
+	text-align : center;
+	width : 30%;
+	height : 30%;
+	margin-top:200px;
+	background-color: #9edae0;
+}
+.logout
+{
+	text-align: right;
+	background-color: lightblue;
+	padding-right:30px;
+	box-sizing: border-box;
+}
